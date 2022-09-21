@@ -1,0 +1,73 @@
+.kepalanya {
+  background-color: #729292;
+  height: 95px;
+  color: #fff;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 33px 20px;
+}
+
+.kepala-logo {
+  font-size: 36px;
+  float: left;
+  padding: 20px 40px;
+}
+
+.header-list {
+  font-size: 15;
+  float: right;
+}
+
+.main {
+  background-color: #2a3b3a;
+  height: 600px;
+}
+
+.coba {
+  color: #fff;
+  margin-left: 25px;
+}
+
+p{
+  color: #fff;
+  margin-left: 25px;
+}
+
+.link{
+  color: rgb(56, 135, 224);
+  margin-left: 25px;
+  text-decoration: none;
+}
+img{
+  margin-top:25px ;
+  margin-left: 25px;
+  width: 16%;
+  height: 50%;
+  /* object-fit: contain; */
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 95px;
+  padding: 70px;
+  cursor: pointer;
+}
+
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
